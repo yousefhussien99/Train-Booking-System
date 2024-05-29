@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+file:/G:/year%202%20semester%202/database/database%20project/t/src/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index

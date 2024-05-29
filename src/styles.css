@@ -1,0 +1,23 @@
+.confirm-button {
+    -fx-background-color: #4CAF50; /* Green background color */
+    -fx-text-fill: white; /* White text color */
+
+
+}
+.button.action-button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+
+.text-field {
+    -fx-background-color: #f2f2f2; /* Light gray background color */
+    -fx-border-color: #ddd; /* Light gray border color */
+    -fx-border-width: 1px; /* Border width */
+    -fx-padding: 5px; /* Padding */
+}
+
+/* Apply the 'text-field' style to all text fields */
+.text-field .text-input {
+    -fx-background-color: transparent; /* Transparent text field background */
+}
